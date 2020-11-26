@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82218" started-at="2020-11-25T23:58:52 CST" finished-at="2020-11-26T00:00:14 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82218" started-at="2020-11-25T23:58:52 CST" finished-at="2020-11-26T00:00:14 CST">
+      <class name="testngpractice.ct2areg">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:testngpractice.ct2areg@27a5f880]" name="launchApp" is-config="true" duration-ms="19932" started-at="2020-11-25T23:59:37 CST" finished-at="2020-11-25T23:59:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="RegisterApp()[pri:0, instance:testngpractice.ct2areg@27a5f880]" name="RegisterApp" duration-ms="11535" started-at="2020-11-25T23:59:58 CST" finished-at="2020-11-26T00:00:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterApp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testngpractice.ct2areg@27a5f880]" name="closeApp" is-config="true" duration-ms="1019" started-at="2020-11-26T00:00:13 CST" finished-at="2020-11-26T00:00:14 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testngpractice.ct2areg -->
+      <class name="testngpractice.ct2a">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:testngpractice.ct2a@394e1a0f]" name="launchApp" is-config="true" duration-ms="26557" started-at="2020-11-25T23:59:11 CST" finished-at="2020-11-25T23:59:37 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:testngpractice.ct2a@394e1a0f]" name="loginApp" duration-ms="5129" started-at="2020-11-25T23:59:58 CST" finished-at="2020-11-26T00:00:03 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testngpractice.ct2a@394e1a0f]" name="closeApp" is-config="true" duration-ms="4265" started-at="2020-11-26T00:00:09 CST" finished-at="2020-11-26T00:00:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testngpractice.ct2a -->
+      <class name="testngpractice.OrangeHRMLogin">
+        <test-method status="PASS" signature="LoginApp()[pri:0, instance:testngpractice.OrangeHRMLogin@396f6598]" name="LoginApp" is-config="true" duration-ms="18400" started-at="2020-11-25T23:58:52 CST" finished-at="2020-11-25T23:59:11 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method status="PASS" signature="loginapp()[pri:1, instance:testngpractice.OrangeHRMLogin@396f6598]" name="loginapp" duration-ms="8744" started-at="2020-11-25T23:59:58 CST" description="login to OrangeHRM" finished-at="2020-11-26T00:00:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+      </class> <!-- testngpractice.OrangeHRMLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
